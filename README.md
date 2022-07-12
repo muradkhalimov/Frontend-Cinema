@@ -1,3 +1,21 @@
+<b>Frontend онлайн кинотеатра</b>
+![home](https://user-images.githubusercontent.com/78733178/178540588-b6d355fa-bff4-4cc6-9878-5e9b83184aa8.jpg)
+
+##
+Стэк: React, Next.js, TypeScript, Redux Toolkit, React Query, Axios, React Hook Form,Tailwind
+
+- React + Next.js
+- авторизация
+- Redux Toolkit
+- админ панель
+- Tailwind
+- SSG/SSR/ISR 
+- client-side fetching
+- react hook form
+
+##
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
