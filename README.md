@@ -5,13 +5,13 @@
 Стэк: React, Next.js, TypeScript, Redux Toolkit, React Query, Axios, React Hook Form,Tailwind
 
 - React + Next.js
-- авторизация
+- Авторизация
 - Redux Toolkit
-- админ панель
+- Админ панель
 - Tailwind
 - SSG/SSR/ISR 
-- client-side fetching
-- react hook form
+- Client-side fetching
+- React hook form
 
 ##
 
